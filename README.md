@@ -1,2 +1,3 @@
-# smartbridge
+# smartbridge 
+                                        Nutrition Analysis Using Image Classification
 As people across the globe are becoming more interested in watching their weight, eating more healthily, and avoid obesity, a system that can measure calories and nutrition in everyday meals can be very useful in this report, I proposed a nutrition analysis system using image classification that can help patients and dietitians to measure and manage daily food intake. Our system is built on image classification using convolution neural network. Recently, there has been an increase in the usage of personal mobile technology such has smartphones or tablets, which users carry with them practically all the time. Users uploads a photo of food is uploaded   our application gives nutrition's and calories present in the food. 
