@@ -1,0 +1,66 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: 400% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.justify {
+    text-align: justify;
+    text-justify: auto;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("doc.jpg");
+    /* Set a specific height */
+    min-height: 750px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#section2 {
+    height: 500px;
+    background: ;
+}
+
+div.background {
+    background: url("static/bgg2.jpg");
+    min-height: 5px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbar {
+    background-color: #fff;
+    color: #333;
+}
+
+#navbar ul {
+    padding: 0;
+    list-style: none;
+}
+
+#navbar li {
+    display: inline;
+}
